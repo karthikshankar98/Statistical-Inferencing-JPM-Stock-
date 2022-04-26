@@ -1,5 +1,7 @@
 # Statistical-Inferencing-JP Morgan-Stock
 
+Data source (Attached in the repo) - "the_data_for_your_group_project_MA541.xlsx"
+
 - JP Morgan stock data consisting of random variables like : Daily ETF return, Crude Oil Price, Gold Price, Daily Return
 - Sample size  of 1000 observations 
 - Conducted hypothesis testing using techniques like T-test, Chi-Square test and normality test
